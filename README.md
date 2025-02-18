@@ -91,8 +91,8 @@ This project is licensed under the **MIT License**.
 
 ## 📬 Contact
 For any questions or suggestions, feel free to reach out:
-📧 Email: [chaudharychirag640@gmail.com](mailto:your-email@example.com)
-📌 GitHub: [chirag640](https://github.com/your-username)
+📧 Email: [chaudharychirag640@gmail.com](mailto:chaudharychirag640@gmail.com)
+📌 GitHub: [chirag640](https://github.com/chirag640)
 
 ---
 
